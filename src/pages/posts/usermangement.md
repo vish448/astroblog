@@ -7,7 +7,7 @@ image:
     url: "https://docs.astro.build/assets/arc.webp"
     alt: "Basics of User Management."
 pubDate: '2024-03-14'
-tags: ["astro", "blogging", "aem", "User Management"]
+tags: ["astro", "blogging", "aem", "User Management", "D4"]
 ---
 ## How to setup user and user group in AEM using AEM siteadmin console.
 
